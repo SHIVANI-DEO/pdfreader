@@ -1,2 +1,3 @@
 # pdfreader
-this program will convert pdf into audiobooks
+Are you tired of boring long pdfs ,here is few lines of code to convert your pdfs into audiobooks....
+this program will convert your pdf into audiobook
