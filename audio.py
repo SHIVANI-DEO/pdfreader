@@ -1,6 +1,6 @@
 import pyttsx3 as text
 import PyPDF2 as pdf
-book = open('E:\IIIT\sem I\MACHINE LEARNING\AI1.pdf', 'rb')
+book = open('pdfreader/art.pdf', 'rb')
 reader = pdf.PdfFileReader(book)
 pages = reader.numPages
 print(pages)
